@@ -1,0 +1,15 @@
+name: "waggle-apogee"
+description: "Captures & uploads incoming/outgoing shortwave and longwave radiation from an Apogee SN-500-SS Net Radiometer."
+version: "0.23.6.14"
+authors: "Joe O'Brien <obrienj@anl.gov>"
+collaborators: "Bhupendra Raut, Elizabeth Wawrzyniak"
+funding: "Community Research on Climate and Urban Science (CROCUS)"
+license: ""
+keywords: "meteorological"
+homepage: "https://github.com/jrobrien91/waggle-apogee/blob/main/README.md"
+source:
+  architectures:
+    - "linux/amd64"
+    - "linux/arm64"
+  url: "https://github.com/jrobrien91/waggle-apogee"
+  branch: "main"
